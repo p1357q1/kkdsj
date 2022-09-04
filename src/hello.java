@@ -7,6 +7,8 @@ public class hello {
             System.out.println("hello git4");
             System.out.println("hello master");
             System.out.println("hello text");
+            System.out.println("hello add");
+
 
         }
     }
